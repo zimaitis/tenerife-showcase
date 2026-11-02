@@ -46,6 +46,9 @@
 
 ---
 
+### 🚗 Kaip naudoti maršrutus
+Kiekviena diena turi vieną bendrą **visos dienos važiavimo** nuorodą su sustojimais teisinga tvarka. Pradžios/pabaigos vieta – tik bendras **La Tejita rajonas**, o ne privatus būsto adresas. Pėsčiųjų žygiai bei laivo kelionė nėra automobilio maršrutai. **Google Maps telefone gali riboti tarpinių taškų skaičių** – pasitikrink juos atsidaręs.
+
 ### 🌤️ Apie orus
 **Prognozės nėra fiksuojamos kaip faktai visai kelionei:** jos keičiasi kasdien. Prie kiekvienos dienos pridėta gyvos vietinės prognozės nuoroda. Kalnuose (Sámara, Teidė), Anagoje ir pietinėje pakrantėje sąlygos gali labai skirtis. [AEMET oficiali prognozė](https://www.aemet.es/en/eltiempo/prediccion/municipios) · [Teidės keltuvo statusas](https://www.volcanoteide.com/en/how-s-the-weather-on-mt-teide-today).
 
@@ -59,9 +62,16 @@
 **🕒 17:00 TFS; 19:15 La Tejita vakarienė**  
 **🚶 1–2 km**
 
+<p align="center"><img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200" alt="Bendra pajūrio nuotaikos iliustracija" width="720" /></p>
+
+<sub>📸 Bendra pajūrio nuotaikos iliustracija · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=La%20Tejita&title=Special%3AMediaSearch&type=image)</sub>
+
 Pirmas vakaras pietinėje pakrantėje: įsikūrimas, Bombay Babu vakarienė, apsipirkimas.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=La%20Tejita&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=Tenerife%20South%20Airport&destination=La%20Tejita%20Street%20Market&waypoints=La%20Tejita&travelmode=driving)**  
+<sub>Tenerife South Airport → La Tejita → La Tejita Street Market. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -92,13 +102,16 @@ Pirmas vakaras pietinėje pakrantėje: įsikūrimas, Bombay Babu vakarienė, aps
 **🕒 10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 16:00 promenada**  
 **🚶 4–6 km**
 
-<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200" alt="Iliustratyvi kelionės nuotaikos nuotrauka" width="100%" />
+<p align="center"><img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200" alt="Gamtos iliustracija (ne konkrečios vietos foto)" width="720" /></p>
 
-<sub>Nuotaikos iliustracija, ne dokumentinė šios vietos nuotrauka.</sub>
+<sub>📸 Gamtos iliustracija (ne konkrečios vietos foto) · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Montana%20Roja%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
 
 Raudonas 171 m vulkanas; viršuje vandenyno ir kopų panorama. La Tejita – laukinis paplūdimys, El Médano – gyvas pajūrio miestelis.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Montana%20Roja%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Montana%20Roja%20Tenerife%7CPlaya%20de%20la%20Tejita%7CEl%20Medano&travelmode=driving)**  
+<sub>La Tejita → Montana Roja Tenerife → Playa de la Tejita → El Medano → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -132,9 +145,16 @@ Raudonas 171 m vulkanas; viršuje vandenyno ir kopų panorama. La Tejita – lau
 **🕒 10:30 uostas; 11:00 registracija; 11:30–14:30 laivas; 15:30 Playa de la Arena**  
 **🚶 1–3 km + laivas** · **✅ NUPIRKTA**
 
+<p align="center"><img src="https://www.gdzie-i-kiedy.pl/site/images/illustration/oualler/-los-gigantes.jpg" alt="Los Gigantes skardžiai · nuotrauka iš šaltinio" width="720" /></p>
+
+<sub>📸 Los Gigantes skardžiai · nuotrauka iš šaltinio · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Puerto%20Deportivo%20Los%20Gigantes&title=Special%3AMediaSearch&type=image)</sub>
+
 Los Gigantes šimtų metrų skardžiai iš jūros; banginių ir delfinų stebėjimas laisvėje. Popiet – juodo smėlio Playa de la Arena.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Los%20Gigantes%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Puerto%20Deportivo%20Los%20Gigantes%7CPlaya%20de%20la%20Arena%20Puerto%20de%20Santiago&travelmode=driving)**  
+<sub>La Tejita → Puerto Deportivo Los Gigantes → Playa de la Arena Puerto de Santiago → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -173,9 +193,16 @@ Los Gigantes šimtų metrų skardžiai iš jūros; banginių ir delfinų stebėj
 **🕒 11:00 Sámara takas; 14:30 piknikas; 16:00 Playa San Juan**  
 **🚶 1–5,1 km**
 
+<p align="center"><img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200" alt="Kalnų nuotaikos iliustracija" width="720" /></p>
+
+<sub>📸 Kalnų nuotaikos iliustracija · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Mirador%20de%20Samara%20TF-38%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
+
 Vulkaniniai kūgiai, kanarinės pušys, Pico Viejo ir Teidės panoramos. Pilnas PNT13 takas 5,1 km / +308 m; trumpas variantas 1–2 km.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Mirador%20de%20Samara%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Mirador%20de%20Samara%20TF-38%20Tenerife%7CPlaya%20San%20Juan%20Guia%20de%20Isora&travelmode=driving)**  
+<sub>La Tejita → Mirador de Samara TF-38 Tenerife → Playa San Juan Guia de Isora → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -206,9 +233,16 @@ Vulkaniniai kūgiai, kanarinės pušys, Pico Viejo ir Teidės panoramos. Pilnas 
 **🕒 10:30 Cherfe; 11:00 Masca; 13:00 pietūs; 14:30 Cruz de Hilda / Baracán**  
 **🚶 2–4 km**
 
+<p align="center"><img src="https://live.staticflickr.com/65535/51068926332_c8e13204da_b.jpg" alt="Masca kaimelis · nuotrauka iš šaltinio" width="720" /></p>
+
+<sub>📸 Masca kaimelis · nuotrauka iš šaltinio · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Mirador%20de%20Cherfe%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
+
 Kalnų kaimelis ant keteros, įspūdingas tarpeklis, Cherfe ir Hilda panoramos, žalias Baracán reljefas. Masca Gorge ilgo žygio su mažais vaikais nedarome.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Masca%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Mirador%20de%20Cherfe%20Tenerife%7CMasca%20Tenerife%7CMirador%20Altos%20de%20Baracan%20Tenerife&travelmode=driving)**  
+<sub>La Tejita → Mirador de Cherfe Tenerife → Masca Tenerife → Mirador Altos de Baracan Tenerife → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -245,13 +279,16 @@ Kalnų kaimelis ant keteros, įspūdingas tarpeklis, Cherfe ir Hilda panoramos, 
 **🕒 10:15 Bosque de los Enigmas; 13:15 piknikas; 14:00 Pico del Inglés; 15:00 Benijo**  
 **🚶 ~4,8–6 km**
 
-<img src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200" alt="Iliustratyvi kelionės nuotaikos nuotrauka" width="100%" />
+<p align="center"><img src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200" alt="Miško iliustracija (ne konkrečios vietos foto)" width="720" /></p>
 
-<sub>Nuotaikos iliustracija, ne dokumentinė šios vietos nuotrauka.</sub>
+<sub>📸 Miško iliustracija (ne konkrečios vietos foto) · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Cruz%20del%20Carmen%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
 
 Drėgnas laurisilvos miškas, samanos, lauramedžiai, kalnų keterų panoramos ir laukinė Benijo pakrantė. Jei šlapia – trumpasis Sendero de los Sentidos.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Anaga%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Cruz%20del%20Carmen%20Tenerife%7CMirador%20Pico%20del%20Ingles%20Tenerife%7CPlaya%20de%20Benijo%20Tenerife&travelmode=driving)**  
+<sub>La Tejita → Cruz del Carmen Tenerife → Mirador Pico del Ingles Tenerife → Playa de Benijo Tenerife → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -285,9 +322,16 @@ Drėgnas laurisilvos miškas, samanos, lauramedžiai, kalnų keterų panoramos i
 **🕒 10:30 La Orotava; 12:00 Drago; 14:00 Garachico, El Caletón**  
 **🚶 3,5–5 km**
 
+<p align="center"><img src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200" alt="Architektūros iliustracija (ne konkrečios vietos foto)" width="720" /></p>
+
+<sub>📸 Architektūros iliustracija (ne konkrečios vietos foto) · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=La%20Orotava%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
+
 Casa de los Balcones, istorinės Orotavos gatvės, Drago Milenario medis, Garachico senamiestis ir iš lavos susiformavę El Caletón baseinai.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Garachico%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=La%20Orotava%20Tenerife%7CIcod%20de%20los%20Vinos%20Tenerife%7CGarachico%20Tenerife&travelmode=driving)**  
+<sub>La Tejita → La Orotava Tenerife → Icod de los Vinos Tenerife → Garachico Tenerife → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -321,9 +365,16 @@ Casa de los Balcones, istorinės Orotavos gatvės, Drago Milenario medis, Garach
 **🕒 09:30 parkas; 11:00 delfinai; 11:55 orkos; 14:30 papūgos; 17:30 pabaiga**  
 **🚶 Visa diena parke**
 
+<p align="center"><img src="https://www.loroparque.com/app/uploads/2023/06/morgan-900x604.jpg" alt="Loro Parque orka · operatoriaus nuotrauka" width="720" /></p>
+
+<sub>📸 Loro Parque orka · operatoriaus nuotrauka · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Loro%20Parque&title=Special%3AMediaSearch&type=image)</sub>
+
 Orca Ocean – pagrindinis prioritetas, delfinai, papūgos, Planet Penguin, akvariumas. Alternatyvūs orkų laikai 15:15, delfinų 13:00 ir 16:15.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Loro%20Parque%20Puerto%20de%20la%20Cruz&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Loro%20Parque%20Puerto%20de%20la%20Cruz&travelmode=driving)**  
+<sub>La Tejita → Loro Parque Puerto de la Cruz → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -371,9 +422,16 @@ Orca Ocean – pagrindinis prioritetas, delfinai, papūgos, Planet Penguin, akva
 **🕒 10:30 Vilaflor; 11:00 Roques; 12:20 Llano de Ucanca; 13:30 apatinė stotis; 14:10 keltuvas**  
 **🚶 1–3 km** · **✅ NUPIRKTA**
 
+<p align="center"><img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200" alt="Vulkaninio kraštovaizdžio iliustracija" width="720" /></p>
+
+<sub>📸 Vulkaninio kraštovaizdžio iliustracija · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Vilaflor%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
+
 Roque Cinchado – simbolinė vulkaninė uola; Mirador de La Ruleta ir Las Cañadas kalderos panorama; keltuvas į ~3555 m. Viršūnės takui reikalingas atskiras leidimas.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Teleferico%20del%20Teide%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Vilaflor%20Tenerife%7CRoques%20de%20Garcia%20Tenerife%7CTeleferico%20del%20Teide%20Tenerife&travelmode=driving)**  
+<sub>La Tejita → Vilaflor Tenerife → Roques de Garcia Tenerife → Teleferico del Teide Tenerife → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -415,13 +473,16 @@ Roque Cinchado – simbolinė vulkaninė uola; Mirador de La Ruleta ir Las Caña
 **🕒 11:00 La Laguna; 13:15–16:45 paplūdimys; 17:00 miradoras**  
 **🚶 2–4 km**
 
-<img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200" alt="Iliustratyvi kelionės nuotaikos nuotrauka" width="100%" />
+<p align="center"><img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200" alt="Paplūdimio iliustracija (ne konkrečios vietos foto)" width="720" /></p>
 
-<sub>Nuotaikos iliustracija, ne dokumentinė šios vietos nuotrauka.</sub>
+<sub>📸 Paplūdimio iliustracija (ne konkrečios vietos foto) · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=San%20Cristobal%20de%20La%20Laguna&title=Special%3AMediaSearch&type=image)</sub>
 
 UNESCO senamiestis: Plaza del Adelantado, Calle Obispo Rey Redondo, Plaza de la Concepción. Po pietų – auksinio smėlio Las Teresitas ir panoraminė apžvalgos aikštelė.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Playa%20de%20las%20Teresitas%20Tenerife&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=San%20Cristobal%20de%20La%20Laguna%7CPlaya%20de%20Las%20Teresitas%7CMirador%20de%20Las%20Teresitas&travelmode=driving)**  
+<sub>La Tejita → San Cristobal de La Laguna → Playa de Las Teresitas → Mirador de Las Teresitas → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -452,9 +513,16 @@ UNESCO senamiestis: Plaza del Adelantado, Calle Obispo Rey Redondo, Plaza de la 
 **🕒 Automobilio grąžinimas TFS ir skrydis**  
 **🚶 —**
 
+<p align="center"><img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200" alt="Skrydžio nuotaikos iliustracija" width="720" /></p>
+
+<sub>📸 Skrydžio nuotaikos iliustracija · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Tenerife%20South%20Airport&title=Special%3AMediaSearch&type=image)</sub>
+
 Jokių paskutinės minutės ekskursijų. Skirti laiko grąžinti automobilį ir pasiekti oro uostą.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Tenerife%20South%20Airport&title=Special%3AMediaSearch&type=image)**
+
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=Tenerife%20South%20Airport&travelmode=driving)**  
+<sub>La Tejita → Tenerife South Airport. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
