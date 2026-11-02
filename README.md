@@ -15,7 +15,7 @@
 <sub>17:00 TFS; 19:15 La Tejita vakarienė</sub>
 
 **[2 diena · 11/05 · 🌋 Montaña Roja, La Tejita, El Médano](#day-05)**  
-<sub>10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 16:00 promenada</sub>
+<sub>10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 16:40 🐠 snorkelinimas Abades</sub>
 
 **[3 diena · 11/06 · 🐋 Flipper Uno ir Los Gigantes](#day-06)** · ✅ **NUPIRKTA**  
 <sub>10:30 uostas; 11:00 registracija; 11:30–14:30 laivas; 15:30 Playa de la Arena</sub>
@@ -97,9 +97,9 @@ Pirmas vakaras pietinėje pakrantėje: įsikūrimas, Bombay Babu vakarienė, aps
 
 ---
 
-## 2 diena · 11/05 · 🌋 Montaña Roja, La Tejita, El Médano
+## 2 diena · 11/05 · 🌋 Montaña Roja, El Médano ir 🐠 snorkeling Abades
 
-**🕒 10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 16:00 promenada**  
+**🕒 10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 15:30 promenada; 16:40 snorkeling Abades**  
 **🚶 4–6 km**
 
 <p align="center"><img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200" alt="Gamtos iliustracija (ne konkrečios vietos foto)" width="720" /></p>
@@ -110,8 +110,8 @@ Raudonas 171 m vulkanas; viršuje vandenyno ir kopų panorama. La Tejita – lau
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Montana%20Roja%20Tenerife&title=Special%3AMediaSearch&type=image)**
 
-**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita&destination=La%20Tejita&waypoints=Montana%20Roja%20Tenerife%7CPlaya%20de%20la%20Tejita%7CEl%20Medano&travelmode=driving)**  
-<sub>La Tejita → Montana Roja Tenerife → Playa de la Tejita → El Medano → La Tejita. Tai vairavimo sustojimai; pėsčiųjų takai ir plaukimas atskirai. Mobiliajame Google Maps patikrinti visus taškus prieš startą.</sub>
+**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita%2C%20Tenerife&destination=La%20Tejita%2C%20Tenerife&waypoints=Montana%20Roja%20Tenerife%7CPlaya%20de%20La%20Tejita%20Tenerife%7CEl%20Medano%20Tenerife%7CPlaya%20de%20Abades%20Tenerife&travelmode=driving)**  
+<sub>La Tejita → Montaña Roja → Playa de La Tejita → El Médano → Playa de Abades → La Tejita. Snorkelinimas priklauso nuo jūros sąlygų.</sub>
 
 <details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
 
@@ -124,14 +124,23 @@ Raudonas 171 m vulkanas; viršuje vandenyno ir kopų panorama. La Tejita – lau
 **14:30 · Cofradía El Médano – pietūs**  
 [📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Cofrad%C3%ADa%20El%20M%C3%A9dano%20Tenerife)
 
-**15:30 · Playa Chica, promenada, El Cabezo (pasirinktinai)**  
+**15:30–16:15 · Playa Chica, trumpa promenada**  
 [📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20Chica%2C%20promenada%2C%20El%20Cabezo%20Tenerife)
+
+
+**16:15 · [Važiuojame į Playa de Abades](https://www.google.com/maps/dir/?api=1&origin=El+Medano%2C+Tenerife&destination=Playa+de+Abades%2C+Tenerife&travelmode=driving)**  
+Papildomas trumpas važiavimas rytinės pakrantės kryptimi.
+
+**16:40–17:45 · 🐠 SNORKELING Playa de Abades (pagrindinis planas)**  
+Smėlėtas įėjimas, žuvys prie vulkaninių uolų. Tik jei vandenynas ramus ir matomumas geras; su mažais vaikais tik sekluma ir tiesioginė priežiūra. [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Playa+de+Abades+Tenerife).
 
 </details>
 
 **🌦️ Orai:** [Tikrinti Montana Roja Tenerife prognozę](https://www.google.com/search?q=Montana%20Roja%20Tenerife%20weather%20forecast%20November%2005%202026) – tai gyva nuoroda, o ne nepatikrinta konkretaus laiko prognozė.
 
-**🎒 Pasiruošti:** Tvirtos avalynės, apsaugos nuo vėjo ir saulės; maudymosi daiktai.
+**🐠 Jei Abades netinka:** 11/06 po laivo Playa de la Arena turi atsarginį snorkelinimo langą, bet tik esant ramiai jūrai. Vėžliai negarantuojami; neliesti ir nemaitinti gyvūnų.
+
+**🎒 Pasiruošti:** kaukė, vamzdelis, plaukmenys (jei naudojami), vandens batai uoloms,  Tvirtos avalynės, apsaugos nuo vėjo ir saulės; maudymosi daiktai.
 
 [🗺️ Regiono žemėlapis](https://www.google.com/maps/search/?api=1&query=Montana%20Roja%20Tenerife) · [⬆️ Į pradžią](#-greitas-planas)
 
