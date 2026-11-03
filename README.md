@@ -15,7 +15,7 @@
 <sub>17:00 TFS; 19:15 La Tejita vakarienė</sub>
 
 **[2 diena · 11/05 · 🌋 Montaña Roja, La Tejita, El Médano](#day-05)**  
-<sub>10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 16:40 🐠 snorkelinimas Abades</sub>
+<sub>09:00 išvykimas; 10:30 Roques de García žygis; 13:00 piknikas; 15:30 🐠 snorkeling Abades</sub>
 
 **[3 diena · 11/06 · 🐋 Flipper Uno ir Los Gigantes](#day-06)** · ✅ **NUPIRKTA**  
 <sub>10:30 uostas; 11:00 registracija; 11:30–14:30 laivas; 15:30 Playa de la Arena</sub>
@@ -36,7 +36,7 @@
 <sub>09:30 parkas; 11:00 delfinai; 11:55 orkos; 14:30 papūgos; 17:30 pabaiga</sub>
 
 **[9 diena · 11/12 · 🏔️ Teidė ir keltuvas](#day-12)** · ✅ **NUPIRKTA**  
-<sub>10:30 Vilaflor; 11:00 Roques; 12:20 Llano de Ucanca; 13:30 apatinė stotis; 14:10 keltuvas</sub>
+<sub>10:30 Vilaflor; 11:30 Las Cañadas panoramos; 13:20 keltuvo stotis; 14:10 keltuvas</sub>
 
 **[10 diena · 11/13 · 🏖️ La Laguna ir Las Teresitas](#day-13)**  
 <sub>11:00 La Laguna; 13:15–16:45 paplūdimys; 17:00 miradoras</sub>
@@ -97,53 +97,40 @@ Pirmas vakaras pietinėje pakrantėje: įsikūrimas, Bombay Babu vakarienė, aps
 
 ---
 
-## 2 diena · 11/05 · 🌋 Montaña Roja, El Médano ir 🐠 snorkeling Abades
+## 2 diena · 11/05 · 🥾 Roques de García (Teidė) + 🐠 snorkeling Abades
 
-**🕒 10:00 vulkanas; 12:00 paplūdimys; 14:30 pietūs; 15:30 promenada; 16:40 snorkeling Abades**  
-**🚶 4–6 km**
+**09:00 išvykimas · 10:30–12:45 žygis · 12:45–13:15 piknikas · 15:30–17:00 snorkeling**  
+**🚶 3,5 km žiedinis takas (+211 m, apie 2–2,75 val. šeimai) arba 1–2 km pirmyn-atgal, jei 4 m. vaikui per sunku.**
 
-<p align="center"><img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200" alt="Gamtos iliustracija (ne konkrečios vietos foto)" width="720" /></p>
+**Kodėl pakeista:** geresnį ketvirtadienio kalnų oro langą naudojame svarbiausiam Teidės parko žygiui. Ankstesnė Montaña Roja / La Tejita / El Médano diena tampa atsarginiu planu. **11/12 14:10 Teidės keltuvo bilietas lieka galioti**, viso Roques žiedo tą dieną nebekartojame.
 
-<sub>📸 Gamtos iliustracija (ne konkrečios vietos foto) · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Montana%20Roja%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
+📷 [Roques de García nuotraukos](https://commons.wikimedia.org/w/index.php?search=Roques%20de%20Garcia%20Tenerife&title=Special%3AMediaSearch&type=image) · [Oficialus tako aprašymas](https://www.webtenerife.com/que-hacer/naturaleza/senderismo/senderos/roques-garcia/)
 
-Raudonas 171 m vulkanas; viršuje vandenyno ir kopų panorama. La Tejita – laukinis paplūdimys, El Médano – gyvas pajūrio miestelis.
+**🚗 [VISOS DIENOS MARŠRUTAS GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La+Tejita%2C+Tenerife&destination=La+Tejita%2C+Tenerife&waypoints=Vilaflor%2C+Tenerife%7CMirador+de+La+Ruleta%2C+Tenerife%7CPlaya+de+Abades%2C+Tenerife&travelmode=driving)**
 
-📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Montana%20Roja%20Tenerife&title=Special%3AMediaSearch&type=image)**
+<details open><summary><b>🧭 Tvarkaraštis ir navigacija</b></summary>
 
-**🚗 [ATIDARYTI VISOS DIENOS VAŽIAVIMO MARŠRUTĄ GOOGLE MAPS](https://www.google.com/maps/dir/?api=1&origin=La%20Tejita%2C%20Tenerife&destination=La%20Tejita%2C%20Tenerife&waypoints=Montana%20Roja%20Tenerife%7CPlaya%20de%20La%20Tejita%20Tenerife%7CEl%20Medano%20Tenerife%7CPlaya%20de%20Abades%20Tenerife&travelmode=driving)**  
-<sub>La Tejita → Montaña Roja → Playa de La Tejita → El Médano → Playa de Abades → La Tejita. Snorkelinimas priklauso nuo jūros sąlygų.</sub>
+**09:00 · Iš La Tejita per Vilaflor į Teidės nacionalinį parką.** Prieš išvažiuojant patikrinti vėją ir kelio būklę.
 
-<details open><summary><b>🧭 Dienos grafikas ir navigacija</b></summary>
+**10:30–12:45 · [Roques de García, startas prie Mirador de La Ruleta](https://www.google.com/maps/search/?api=1&query=Mirador+de+La+Ruleta+Tenerife).** Žiedas apie 3,5 km (+211 m). 4 metų vaikui – trumpasis 1–2 km variantas pirmyn ir atgal. Statyti automobilį tik leidžiamoje vietoje; aikštelės užimtumą tikrinti atvykus.
 
-**10:00 · Montaña Roja – 3–4 km vulkaninis takas (ar trumpesnis, jei vėjuota)**  
-[📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Monta%C3%B1a%20Roja%20Tenerife)
+**12:45–13:15 · Pietūs išsinešti.** Visiems vanduo, vėjo neperpučiami drabužiai.
 
-**12:00 · Playa de La Tejita – 2 val. poilsis**  
-[📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20de%20La%20Tejita%20Tenerife)
+**13:15–15:15 · [Važiavimas Roques → Playa de Abades](https://www.google.com/maps/dir/?api=1&origin=Mirador+de+La+Ruleta%2C+Tenerife&destination=Playa+de+Abades%2C+Tenerife&travelmode=driving).** Orientacinis laikas su atsarga; tikslų ETA patikrinti navigatoriuje.
 
-**14:30 · Cofradía El Médano – pietūs**  
-[📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Cofrad%C3%ADa%20El%20M%C3%A9dano%20Tenerife)
+**15:30–17:00 · [🐠 Playa de Abades snorkeling](https://www.google.com/maps/search/?api=1&query=Playa+de+Abades+Tenerife).** Tik ramioje jūroje, be pavojingų srovių ar bangavimo. Su vaikais – sekluma ir nuolatinė suaugusiojo priežiūra, prie uolų neplaukti esant bangoms.
 
-**15:30–16:15 · Playa Chica, trumpa promenada**  
-[📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20Chica%2C%20promenada%2C%20El%20Cabezo%20Tenerife)
-
-
-**16:15 · [Važiuojame į Playa de Abades](https://www.google.com/maps/dir/?api=1&origin=El+Medano%2C+Tenerife&destination=Playa+de+Abades%2C+Tenerife&travelmode=driving)**  
-Papildomas trumpas važiavimas rytinės pakrantės kryptimi.
-
-**16:40–17:45 · 🐠 SNORKELING Playa de Abades (pagrindinis planas)**  
-Smėlėtas įėjimas, žuvys prie vulkaninių uolų. Tik jei vandenynas ramus ir matomumas geras; su mažais vaikais tik sekluma ir tiesioginė priežiūra. [📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Playa+de+Abades+Tenerife).
+**17:00+ · Grįžimas į La Tejita.** Vakarienė prie būsto, jei norėsis.
 
 </details>
 
-**🌦️ Orai:** [Tikrinti Montana Roja Tenerife prognozę](https://www.google.com/search?q=Montana%20Roja%20Tenerife%20weather%20forecast%20November%2005%202026) – tai gyva nuoroda, o ne nepatikrinta konkretaus laiko prognozė.
+**🌦️ Tikrinti prieš išvykimą:** [AEMET kalnų prognozė](https://www.aemet.es/en/eltiempo/prediccion/montana) · [Abades pakrantės orai](https://www.google.com/search?q=Abades+Tenerife+weather+November+5+2026) · [Tenerife ON takų būklė](https://www.tenerifeon.es/). Prognozė nėra snorkelingo saugumo garantija.
 
-**🐠 Jei Abades netinka:** 11/06 po laivo Playa de la Arena turi atsarginį snorkelinimo langą, bet tik esant ramiai jūrai. Vėžliai negarantuojami; neliesti ir nemaitinti gyvūnų.
+**B planas:** blogas kalnų oras → Montaña Roja + Abades, jei jūra saugi. Bloga jūra → tik pakrantės pasivaikščiojimas, snorkeling perkeliamas pagal sąlygas.
 
-**🎒 Pasiruošti:** kaukė, vamzdelis, plaukmenys (jei naudojami), vandens batai uoloms,  Tvirtos avalynės, apsaugos nuo vėjo ir saulės; maudymosi daiktai.
+**🎒 Daiktai:** kalnų batai, šilti sluoksniai, kepurės, vanduo, piknikas, kaukės, rankšluosčiai, persirengimas.
 
-[🗺️ Regiono žemėlapis](https://www.google.com/maps/search/?api=1&query=Montana%20Roja%20Tenerife) · [⬆️ Į pradžią](#-greitas-planas)
-
+[⬆️ Į pradžią](#-greitas-planas)
 
 <a id="day-06"></a>
 
@@ -435,7 +422,7 @@ Orca Ocean – pagrindinis prioritetas, delfinai, papūgos, Planet Penguin, akva
 
 <sub>📸 Vulkaninio kraštovaizdžio iliustracija · [Nuotraukų galerija](https://commons.wikimedia.org/w/index.php?search=Vilaflor%20Tenerife&title=Special%3AMediaSearch&type=image)</sub>
 
-Roque Cinchado – simbolinė vulkaninė uola; Mirador de La Ruleta ir Las Cañadas kalderos panorama; keltuvas į ~3555 m. Viršūnės takui reikalingas atskiras leidimas.
+Roques de García žygis suplanuotas 11/05. Šiandien kiti Las Cañadas apžvalgos taškai ir keltuvas į ~3555 m. Viršūnės takui reikalingas atskiras leidimas.
 
 📷 **[Tikros šios vietos nuotraukos](https://commons.wikimedia.org/w/index.php?search=Teleferico%20del%20Teide%20Tenerife&title=Special%3AMediaSearch&type=image)**
 
@@ -447,7 +434,7 @@ Roque Cinchado – simbolinė vulkaninė uola; Mirador de La Ruleta ir Las Caña
 **10:30 · Vilaflor – WC / kavos sustojimas**  
 [📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Vilaflor%20Tenerife)
 
-**11:00 · Roque Cinchado ir Mirador de La Ruleta**  
+**11:30 · Las Cañadas panoramos (Roques žygis jau 11/05)**  
 [📍 Atidaryti Google Maps](https://www.google.com/maps/search/?api=1&query=Roque%20Cinchado%20ir%20Mirador%20de%20La%20Ruleta%20Tenerife)
 
 **12:20 · Llano de Ucanca, jei laikas leidžia**  
